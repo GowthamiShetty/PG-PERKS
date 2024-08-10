@@ -8,11 +8,12 @@ PG Life is a Full-Stack Web Application. This is a project that I was assigned t
 
 # Features
  home page:-
-a. Search bar, where user can enter city name(in any case), and PGs listed in that city(if exists in database), will be shown as list.
-b. Contains main cities in the form of circular sections, clicking upon which user can get the list of pgs existing in that city.
+-Search bar, where user can enter city name(in any case), and PGs listed in that city(if exists in database), will be shown as list.
+- Contains main cities in the form of circular sections, clicking upon which user can get the list of pgs existing in that city.
+
 The PG list page:-
-a. Shows the list of all the PGs and their main features in the selected city, in the form of beautiful cards.
-b. Filter bar, using which the PGs can be sorted according to rent and rating, in ascending or descending order.
+-Shows the list of all the PGs and their main features in the selected city, in the form of beautiful cards.
+-Filter bar, using which the PGs can be sorted according to rent and rating, in ascending or descending order.
 c. User can see here which PG is being marked interested by how many users, to know popularity.
 d. After logging in, user can mark any PG(s) as interested, from the list itself, by clicking on the heart icon.
 e. The heart icon toggles style in terms of fill color, when alternatively clicked to like or dislike the pg. Based upon click, interested user's number remains updated dynamically.
